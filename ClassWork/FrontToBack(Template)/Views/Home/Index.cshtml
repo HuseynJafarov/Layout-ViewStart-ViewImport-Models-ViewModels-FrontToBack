@@ -1,0 +1,16 @@
+﻿@*@{
+        int[] num =(int[]) ViewData["numbers"];
+    }*@
+
+@{
+    int[] num = (int[])ViewBag.nums;
+}
+
+
+<main>
+    @foreach (var item in num)
+    {
+        <h1>@item</h1>
+    }
+</main>
+

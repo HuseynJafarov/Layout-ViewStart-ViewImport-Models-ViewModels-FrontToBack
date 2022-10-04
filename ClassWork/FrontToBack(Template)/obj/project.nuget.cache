@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6XqNO4329LAdCpWrwnLBBy9COBuETRPtFrT5+A9e2Y9nTzwQ49BeFPVFnt11X/8mjRdS2P+ZuDUeSONZqK8kTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\FrontToBack(Template)\\FrontToBack(Template)\\FrontToBack(Template).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
