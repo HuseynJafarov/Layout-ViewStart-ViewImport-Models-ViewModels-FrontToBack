@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\Front-Back\\Front-Back\\Front-Back.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\Front-ToBack\\Front-Back\\Front-Back.csproj",
       "projectName": "Front-Back",
-      "projectPath": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\Front-Back\\Front-Back\\Front-Back.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\Front-ToBack\\Front-Back\\Front-Back.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\Front-Back\\Front-Back\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\FrontToBack\\Front-ToBack\\Front-Back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
